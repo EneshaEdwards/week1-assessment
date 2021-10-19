@@ -40,4 +40,4 @@ const middleNums = numbers.splice(1,3);{
   Return the answers array inside of the function.
 */
 
-
+// Hello//
